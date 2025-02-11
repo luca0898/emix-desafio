@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.PRESENTATION", "1.PRESENT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMix.ConsultaCEP", "Presentation\eMix.ConsultaCEP.csproj", "{F378F21A-35D0-4F25-9F9F-297D98E6F939}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Tests", "2.Tests", "{655B907B-D5F6-4ED9-9523-E19B2A5AB8E1}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.TESTS", "2.TESTS", "{655B907B-D5F6-4ED9-9523-E19B2A5AB8E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMix.ConsultaCEP.Tests", "Tests\eMix.ConsultaCEP.Tests\eMix.ConsultaCEP.Tests.csproj", "{49C94CEA-9C34-4103-B784-CD1FCEBE67AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMix.ConsultaCEP.Tests", "Tests\eMix.ConsultaCEP.Tests.csproj", "{49C94CEA-9C34-4103-B784-CD1FCEBE67AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

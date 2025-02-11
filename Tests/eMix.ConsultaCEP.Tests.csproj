@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Presentation\eMix.ConsultaCEP.csproj" />
+    <ProjectReference Include="..\Presentation\eMix.ConsultaCEP.csproj" />
   </ItemGroup>
 
   <ItemGroup>
