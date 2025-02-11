@@ -1,7 +1,7 @@
 ﻿using eMix.ConsultaCEP.Models;
 using Refit;
 
-namespace eMix.ConsultaCEP.Contracts
+namespace eMix.ConsultaCEP.Contracts.Repositories
 {
     [Headers("accept: application/json")]
     public interface IViaCepHttpService

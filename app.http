@@ -1,0 +1,5 @@
+### Requisição POST para localhost:5001/Cep
+POST https://localhost:7002/Cep?ZipCode=13087500
+
+### Requisição Busca CEP Inválido
+POST https://localhost:7002/Cep?ZipCode=00000000
